@@ -1,0 +1,11 @@
+Model Information:
+* title:	little house tavern
+* source:	https://sketchfab.com/3d-models/little-house-tavern-b61ec799f9d24df98872e1803f7d46ef
+* author:	confused_yet_ (https://sketchfab.com/confused_yet_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "little house tavern" (https://sketchfab.com/3d-models/little-house-tavern-b61ec799f9d24df98872e1803f7d46ef) by confused_yet_ (https://sketchfab.com/confused_yet_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
